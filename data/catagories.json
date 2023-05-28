@@ -1,19 +1,19 @@
 [
     {
       "id": "01",
-      "name": "Breaking News"
+      "name": "Class Start Info"
     },
     {
       "id": "02",
-      "name": "Regular News"
+      "name": "Application Deadline"
     },
     {
       "id": "03",
-      "name": "International News"
+      "name": "Students Classroom"
     },
     {
       "id": "04",
-      "name": "Sports"
+      "name": "Photo Gallery"
     },
     {
       "id": "05",
@@ -22,13 +22,5 @@
     {
       "id": "06",
       "name": "Culture"
-    },
-    {
-      "id": "07",
-      "name": "Arts"
-    },
-    {
-      "id": "08",
-      "name": "All News"
     }
   ]
