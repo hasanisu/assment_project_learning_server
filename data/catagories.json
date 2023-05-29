@@ -1,26 +1,26 @@
 [
     {
       "id": "01",
-      "name": "Class Start Info"
+      "name": "Learn With JavaScript"
     },
     {
       "id": "02",
-      "name": "Application Deadline"
+      "name": "Learn With Java"
     },
     {
       "id": "03",
-      "name": "Students Classroom"
+      "name": "Learn With PhP"
     },
     {
       "id": "04",
-      "name": "Photo Gallery"
+      "name": "Learn With Web Development"
     },
     {
       "id": "05",
-      "name": "Entertainment"
+      "name": "Learn With C++"
     },
     {
       "id": "06",
-      "name": "Culture"
+      "name": "Learn With Python"
     }
   ]

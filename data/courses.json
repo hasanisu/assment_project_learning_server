@@ -1,6 +1,6 @@
 [
     {
-      "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+      "_id": "02023isu05hi29tsuma6a",
       "category_id": "01",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 488,
@@ -11,11 +11,11 @@
         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
       },
       "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-      "image_url": "https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/11/blog_How-to-Become-a-DevOps-Engineer-1.jpg",
-      "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe,"
+      "image_url": "https://miro.medium.com/v2/resize:fit:1200/1*LyZcwuLWv2FArOumCxobpA.png",
+      "details": "The most obvious reason for learning JavaScript is if you have hopes of becoming a web developer. Even if you haven't got your heart set on a tech career, being proficient in this language will enable you to build websites from scratch—a pretty useful skill to have in today's job market!"
     },
     {
-      "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+      "_id": "02023isu05hi29tsuma6b",
       "category_id": "02",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 488,
@@ -26,30 +26,30 @@
         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
       },
       "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-      "image_url": "https://programmerblog.net/wp-content/uploads/2023/03/what-is-devops.png",
-      "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe,"
+      "image_url": "https://favtutor.com/resources/images/uploads/Java_Projects_for_Beginners.jpg",
+      "details": "Java is the (second) most in-demand programming language, If you’re considering learning to code to boost your career opportunities and income, it’s important to determine the type of software development you enjoy. Web developers who use languages like JavaScript thrive when a website looks and feels awesome, but cringe at the thought of endless hours crunching code on the server. While server-side developers who use languages like Java and C are less concerned with how a website looks – instead they thrive on the back-end logic and problem solving to make software applications work."
     },
     {
-      "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+      "_id": "02023isu05hi29tsuma6c",
       "category_id": "03",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 488,
-      "title": "Learn React",
+      "title": "Learn PHP",
       "teacher": {
         "name": "Jimmy Dane",
         "course_StartDate": "2022-08-24 17:27:34",
         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
       },
       "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-      "image_url": "https://ares.decipherzone.com/blog-manager/uploads/banner_webp_51ddbe10-6b83-4d6c-b762-ab26ab3a62b9.webp",
-      "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe,"
+      "image_url": "https://www.slaconsultantsindia.com/wp_files/wp-content/uploads/2018/08/How-many-PHP-Version-in-Market-and-Latest-Version-of-PHP.jpg",
+      "details": "PHP is a great creative tool that can help you learn the fundamentals of web designing. It is similar to HTML and is much easier and more relevant in today’s world. PHP is often recommended to web design freshers because of how simple it is. With the right help and resources, you should be able to master it within a few months of learning.PHP is a fundamental programming language that requires users to have virtually no prior coding experience. Its simple syntax makes it extremely easy to understand and work with. Within a few hours of starting, you should be able to create a simple website. You can then experiment with the language and figure out your strengths."
     },
     {
-      "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+      "_id": "02023isu05hi29tsuma6d",
       "category_id": "04",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 488,
-      "title": "Learn PhP",
+      "title": "Web Development",
       "teacher": {
         "name": "Jimmy Dane",
         "course_StartDate": "2022-08-24 17:27:34",
@@ -57,10 +57,10 @@
       },
       "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
       "image_url": "https://bestarion.com/wp-content/uploads/2022/06/devops-and-cloud-engineer-1024x576.jpg",
-      "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe,"
+      "details": "The reasons to learn web development are plentiful, but in short: Learning web development teaches critical thinking skills, communication skills, and opens the door to lucrative job opportunities, While some web developers have bachelor’s degrees in computer science or related fields, many only have high school diplomas or associate degrees. Keep in mind that most employers hire web developers based on their knowledge and portfolios. In other words, formal education is not a requirement to become a successful web developer (although education is always a plus!) In addition, you can take certain training online, like coding boot camps."
     },
     {
-      "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+      "_id": "02023isu05hi29tsuma6e",
       "category_id": "05",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 488,
@@ -71,11 +71,11 @@
         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
       },
       "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-      "image_url": "https://cdn.educba.com/academy/wp-content/uploads/2019/11/DevOps-Engineer.jpg",
-      "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe,"
+      "image_url": "https://www.simplilearn.com/ice9/free_resources_article_thumb/What_is_CPP.jpg",
+      "details": "C++ is known to be one of the most difficult programming languages to learn over other popular languages like Python and Java. C++ is hard to learn because of its multi-paradigm nature and more advanced syntax. While it’s known to be especially difficult for beginners to learn, it’s also difficult for programmers with no experience with low-level languages. While it does take more time to write C++ code, the language has been modernized to present high-level abstractions. These abstractions can be used to code very efficiently. You can write code quickly with C++ 14, C++ 17, and C++ 20 While some developers suggest learning C before C++, others argue that if you’re interested in working with C++ in your career or in personal projects, there’s no need to dedicate time to learning C (unless you want to, of course!). If you’re completely new to programming, it’s important to learn computer programming in a language-agnostic way. There are many fundamental concepts that are critical to software development as a whole. You can set yourself up for success by learning those fundamentals first, so you can dive into a language feeling prepared and confident."
     },
     {
-      "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+      "_id": "02023isu05hi29tsuma6f",
       "category_id": "06",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 488,
@@ -86,8 +86,8 @@
         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
       },
       "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-      "image_url": "https://images.netcomlearning.com/cms/banners/devops-engineer-vs-software-engineer.png",
-      "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe,"
+      "image_url": "https://365datascience.com/resources/blog/2017-11-Programming-in-900-words-min.png",
+      "details": "Python is a very popular programming language today and often needs an introduction. It is widely used in various business sectors, such as programming, web development, machine learning, and data science. Given its widespread use, it's not surprising that Python has surpassed Java as the top programming language, Do you want to make an amazing salary and enjoy a secure future? Learn Python programming, and you will. No, we’re not talking about the reptile or the classic British comedy troupe (well, not precisely anyway) — we mean Python, as in the programming language. Python is easy to understand and once you do, you can use those skills to land a wonderful career in the rapidly developing data science industry. Even better, your career will thrive as the demand for Python programmers grows with the new applications for machine learning that arise every day. Intrigued? Wonderful! Read on and become enlightened to the benefits of Python!"
     }
     
   ]
