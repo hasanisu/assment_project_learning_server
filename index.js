@@ -27,7 +27,7 @@ app.get('/courses', (req, res) =>{
   res.send(courses)
 })
 
-app.get('/course-confirmed/:id',(req, res)=>{
+app.get('/check-out/:id',(req, res)=>{
   const id = req.params.id;
   const selectedCourses = courses.find(n => n._id === id);
   res.send(selectedCourses)
